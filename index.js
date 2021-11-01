@@ -1,5 +1,5 @@
 // Revere the string
-// retrun a string
+// return a string
 
 function reverseString(str) {
   let arr = str.split("")
